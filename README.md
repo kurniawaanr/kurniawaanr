@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kurniawaanr
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Back-end stuff
-- 📫 How to reach me : email to pitesekur@yahoo.com
+how to be good at programming? 💀
 
 <!---
 kurniawaanr/kurniawaanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
