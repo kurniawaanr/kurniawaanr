@@ -3,7 +3,7 @@ kurniawaanr/kurniawaanr is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header](./images/header.png)
+![Header](./images/header-new.png)
 
 <h3 align="center">👩‍💻  About Me</h3><br>
 
