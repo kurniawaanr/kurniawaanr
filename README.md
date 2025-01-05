@@ -2,8 +2,6 @@
 kurniawaanr/kurniawaanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Header](./images/header100.png)
-
 <h3 align="center">About Me</h3>
 
 <p align="left">Hello there! 👋 I recently graduated with a Bachelors degree in Informatics from Indonesia. Currently, I'm delving into web development with a focus on Backend technologies and its Infrastructure. Additionally, I'm exploring the realm of <b>DevOps</b>, learning about various tools and experimenting with their usage.<br><br>
